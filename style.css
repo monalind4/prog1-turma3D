@@ -8,7 +8,13 @@
 .cabeçalho_subtitulo{ 
     justify-content: center;
     background-color: blueviolet;
+    color: blueviolet;
     display: flex;
+ }
 
-
+ .cabeçalho_subtitulo{
+     justify-content: center;
+     background-color: black;
+     color: black;
+     display: flex;
  }
