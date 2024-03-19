@@ -8,13 +8,13 @@
 .cabeçalho_subtitulo{ 
     justify-content: center;
     background-color: blueviolet;
-    color: blueviolet;
+    color: rgba(255, 255, 255, 0);
     display: flex;
  }
 
  .cabeçalho_subtitulo{
      justify-content: center;
      background-color: black;
-     color: black;
+     color: rgb(255, 255, 255);
      display: flex;
  }
