@@ -7,8 +7,8 @@
 
 .cabeçalho_subtitulo{ 
     justify-content: center;
-    background-color: blueviolet;
-    color: rgba(255, 255, 255, 0);
+    background-color: rgb(255, 255, 255);
+    color: rgb(124, 6, 179);
  }
 
  .paragrafo_introdução{
