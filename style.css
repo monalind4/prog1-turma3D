@@ -11,8 +11,8 @@
     color: rgba(255, 255, 255, 0);
  }
 
- .cabeçalho_subtitulo{
+ .paragrafo_introdução{
      justify-content: center;
-     background-color: black;
-     color: rgb(255, 255, 255);
+     background-color: rgb(255, 255, 255);
+     color: black);
  }
